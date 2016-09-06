@@ -16,8 +16,12 @@
 
 ##资源
 
-* [剑三pve官网开服监控api](http://www.jx3pve.com/api/server/list.php) （要做开服监控，省事的话可以用这个）
-* [剑三开服监控api](http://jx3gc.autoupdate.kingsoft.com/jx3gc/zhcn/serverlist/serverlist.ini)  （多敲点代码自己截取的话用这个）
-## About
+* [剑三pve官网开服监控api](http://www.jx3pve.com/api/server/list.php) -- 要做开服监控，省事的话可以用这个
+* [剑三开服监控api](http://jx3gc.autoupdate.kingsoft.com/jx3gc/zhcn/serverlist/serverlist.ini) -- 多敲点代码自己截取的话用这个
+
+##工具
+
+* [后台无限多开鼠标按键](http://pan.baidu.com/s/1kVlLCYr) -- 密码:mp5y
+##About
 
    　　资源来源于网络，收集整合，方便查阅~
